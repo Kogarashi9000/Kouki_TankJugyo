@@ -23,7 +23,7 @@
 [Bb]uild
 [Ll]ibrary/
 sysinfo.txt
-*.stackdump
+*.stackdump 
 
 #vs generated
 [Ee]xported[Oo]bj/
@@ -52,3 +52,4 @@ ehthumbs.db
 [Pp]roto/
 
 !*.obj
+Library/
